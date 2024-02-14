@@ -4,7 +4,7 @@ Spellchecker9000 is a simple, yet powerful spell checking tool that uses a dicti
 
 ## Setup
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/dmccloud/spellchecker9000.git`
 2. Navigate into the project directory: `cd spellchecker9000`
 3. Install the dependencies: `npm install` (Assuming Node.js and npm are already installed on your system)
 
