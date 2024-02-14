@@ -1,0 +1,17 @@
+{
+  "name": "spellcheck_cli",
+  "version": "1.0.0",
+  "description": "cool cli spell checker",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dmccloud",
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "fastest-levenshtein": "^1.0.16"
+  }
+}
